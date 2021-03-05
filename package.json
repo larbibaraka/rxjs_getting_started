@@ -1,0 +1,22 @@
+{
+  "name": "rxjs_getting_started",
+  "version": "1.0.0",
+  "description": "learn rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larbibaraka/rxjs_getting_started.git"
+  },
+  "keywords": [
+    "rxjs"
+  ],
+  "author": "Baraka Larbi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larbibaraka/rxjs_getting_started/issues"
+  },
+  "homepage": "https://github.com/larbibaraka/rxjs_getting_started#readme"
+}
